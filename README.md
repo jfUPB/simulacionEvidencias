@@ -12,14 +12,6 @@ Coloca aquí el nombre y el ID de los estudiantes que conforman el equipo de tra
 - [ ] Unidad 6
 - [ ] Unidad 7
 
-## Documentación de la Unidad 1
-
-### Ejercicio 1
-
-### Ejercicio 10
-
-### RETO 1
-
 ## Documentación de la Unidad 2
 
 ### Ejercicio 1
